@@ -1,0 +1,19 @@
+{
+	"_payload": {
+		"_type": "UPDATE_COMPONENT",
+		"_updates": [
+			{
+				"_action": "QUERY_FLIGHT_DATA",
+				"_parameters": {
+					"adultCount": 1,
+					"destination": "004",
+					"origin": "NAP",
+					"outwardDate": "2022-07-01",
+					"tripType": "ONE_WAY"
+				},
+				"_path": "/content/eurowings/en/booking/flights/flight-search/book-flights/select/jcr:content/main/flightselect",
+				"_type": "ew/components/booking/flightselect"
+			}
+		]
+	}
+}
